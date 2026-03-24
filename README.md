@@ -2,7 +2,8 @@
 
 ## About This Project
 This is a simple project about predicting the flight ticket prices. It uses 3 ML algotrithms: Linear Regression, Decision Tree Regressor and XGBoost Regressor.
-AFter training, the system outputs the evaluation metrics and plots the predictions. This project contains 2 python files: one with normal training and one with hyperparameter tuning.
+After training, the system outputs the evaluation metrics and plots the predictions. This project contains 2 python files: one with normal training and one with hyperparameter tuning.
+Installation guide only shows how to run the normal training .py file. To run the hyperparameter tuned .py, change "Normal.py" to "HyperparameterTuned.py".
 Keep in mind that .csv file contains 300.000 samples.
 
 ## Requirements
