@@ -23,7 +23,7 @@ cd FlightPricePrediction/Flight Prediction Project
 ```bash
 python Normal.py
 ```
-or
+>or:
 ```bash
 python HyperparameterTuned.py
 ```
